@@ -1,2 +1,2 @@
 # CausalGenDiff
-This is official implementation of CausalGenDiff.
+This is the official implementation of CausalGenDiff. The code will be published soon.
