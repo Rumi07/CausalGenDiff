@@ -1,0 +1,1 @@
+python train_vae.py --document 'dataset-MG' --device 'cuda:0' --batch_size 64 --epoch 1000  > vae_train_run.log
